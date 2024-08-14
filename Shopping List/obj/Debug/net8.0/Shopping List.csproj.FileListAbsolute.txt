@@ -12,3 +12,4 @@
 /Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/obj/Debug/net8.0/Shopping List.pdb
 /Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/obj/Debug/net8.0/Shopping List.genruntimeconfig.cache
 /Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/obj/Debug/net8.0/ref/Shopping List.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/obj/Debug/net8.0/Shopping List.sourcelink.json
