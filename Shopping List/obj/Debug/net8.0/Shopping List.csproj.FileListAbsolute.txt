@@ -1,0 +1,14 @@
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/bin/Debug/net8.0/Shopping List
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/bin/Debug/net8.0/Shopping List.deps.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/bin/Debug/net8.0/Shopping List.runtimeconfig.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/bin/Debug/net8.0/Shopping List.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/bin/Debug/net8.0/Shopping List.pdb
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/obj/Debug/net8.0/Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/obj/Debug/net8.0/Shopping List.AssemblyInfoInputs.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/obj/Debug/net8.0/Shopping List.AssemblyInfo.cs
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/obj/Debug/net8.0/Shopping List.csproj.CoreCompileInputs.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/obj/Debug/net8.0/Shopping List.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/obj/Debug/net8.0/refint/Shopping List.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/obj/Debug/net8.0/Shopping List.pdb
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/obj/Debug/net8.0/Shopping List.genruntimeconfig.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Labs/Shopping List/Shopping List/obj/Debug/net8.0/ref/Shopping List.dll
